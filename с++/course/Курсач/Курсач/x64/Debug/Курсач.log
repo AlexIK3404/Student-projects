@@ -1,0 +1,5 @@
+﻿  Курсач.cpp
+C:\Users\Александр\source\repos\Курсач\Курсач\Курсач.cpp(81,22): warning C4244: =: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+C:\Users\Александр\source\repos\Курсач\Курсач\Курсач.cpp(161,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр\source\repos\Курсач\Курсач\Курсач.cpp(181,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Курсач.vcxproj -> C:\Users\Александр\source\repos\Курсач\x64\Debug\Курсач.exe
