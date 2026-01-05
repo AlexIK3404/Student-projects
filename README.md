@@ -1,7 +1,6 @@
 # Student Projects Portfolio
 
 Небольшой портфолио‑репозиторий с учебными работами по Python и C++.  
-This repository collects учебные проекты and лабораторные работы for a student portfolio.
 
 ## Структура / Structure
 
