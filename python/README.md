@@ -7,7 +7,7 @@
 - `algorithms-and-data-structures/` — лабораторные и курсовая по предмету «Алгоритмы и структуры данных».
 - `Konyaev_Alexandr_2302_DDoS_Dataset.pptx` — презентация по датасету DDoS.
 - `Konyaev_Alexandr_2302_Yelp_Dataset.pptx` — презентация по датасету Yelp.
-- `inf_labs.pdf` — сводный отчёт по лабораторным работам.
+- `inf_labs.pdf` — сводный отчёт по лабораторным работам дисциплины "Информатика".
 
 ## Примечание
 
