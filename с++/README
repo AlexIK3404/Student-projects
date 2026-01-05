@@ -1,3 +1,17 @@
-В этой директории содержатся папки, в каждой из которой находится отчёт по курсовой или лабораторной работе в форматах .docx и .pdf, папка с проектом и текстовый файл с кодом программы.
+# C++ проекты / C++ projects
 
-This directory contains folders, each of which contains a report on course or laboratory work in formats.docx and .pdf, a folder with the project and a text file with the program code.
+В этой директории содержатся папки с лабораторными и курсовой работами.  
+Каждая папка включает:
+
+- отчёт в форматах `.docx` и `.pdf`,
+- папку с проектом,
+- текстовый файл с кодом программы.
+
+---
+
+This directory contains folders with course and laboratory work.  
+Each folder includes:
+
+- a report in `.docx` and `.pdf` formats,
+- a project folder,
+- a plain text file with the program code.

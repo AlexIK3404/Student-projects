@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# C++ build artifacts
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
