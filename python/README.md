@@ -5,6 +5,7 @@
 ## Содержимое
 
 - `algorithms-and-data-structures/` — лабораторные и курсовая по предмету «Алгоритмы и структуры данных».
+- `modeling-of-nonlinear-dynamical-systems/` — лабораторные по моделированию нелинейных динамических систем.
 - `Konyaev_Alexandr_2302_DDoS_Dataset.pptx` — презентация по датасету DDoS.
 - `Konyaev_Alexandr_2302_Yelp_Dataset.pptx` — презентация по датасету Yelp.
 - `inf_labs.pdf` — сводный отчёт по лабораторным работам дисциплины "Информатика".
@@ -17,5 +18,13 @@
 - `coursework/` — курсовая (ноутбук и код).
 - `coursework-assets/` — данные и вспомогательные файлы для курсовой.
 - `semester-2/lab-01-compression/` — материалы второго семестра (сжатие).
+
+## Быстрая навигация по MNDS
+
+- `MNDS_lab1.ipynb` — лабораторная работа 1.
+- `MNDS_lab2.ipynb` — лабораторная работа 2.
+- `MNDS_lab3.ipynb` — лабораторная работа 3.
+- `MNDS_lab4.ipynb` — лабораторная работа 4.
+- `MNDS_lab5.ipynb` — лабораторная работа 5.
 
 Jupyter‑ноутбуки открываются в JupyterLab или VS Code.
