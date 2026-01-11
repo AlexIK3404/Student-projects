@@ -1,0 +1,25 @@
+Grid search: 3 h * 8 WT * 11 Kq = 264 configs
+BEST: h=0.0010 WT=0.150 Kq=2.0 | strong=0.00 medMin=-0.08 medEnd=-0.04 endNeg=0.74
+BEST: h=0.0010 WT=0.180 Kq=5.0 | strong=0.03 medMin=-0.06 medEnd=0.34 endNeg=0.21
+BEST: h=0.0010 WT=0.180 Kq=6.5 | strong=0.07 medMin=-0.06 medEnd=0.38 endNeg=0.15
+BEST: h=0.0010 WT=0.180 Kq=10.0 | strong=0.12 medMin=-0.05 medEnd=0.45 endNeg=0.19
+BEST: h=0.0010 WT=0.180 Kq=15.0 | strong=0.14 medMin=-0.05 medEnd=0.45 endNeg=0.20
+BEST: h=0.0010 WT=0.180 Kq=20.0 | strong=0.15 medMin=-0.05 medEnd=0.43 endNeg=0.19
+BEST: h=0.0010 WT=0.220 Kq=2.0 | strong=0.17 medMin=-0.07 medEnd=0.30 endNeg=0.31
+BEST: h=0.0010 WT=0.220 Kq=5.0 | strong=0.45 medMin=-0.15 medEnd=0.08 endNeg=0.46
+BEST: h=0.0010 WT=0.220 Kq=6.5 | strong=0.49 medMin=-0.20 medEnd=-0.05 endNeg=0.51
+BEST: h=0.0010 WT=0.220 Kq=10.0 | strong=0.51 medMin=-14.70 medEnd=-14.70 endNeg=0.53
+BEST: h=0.0010 WT=0.220 Kq=15.0 | strong=0.54 medMin=-14.81 medEnd=-14.81 endNeg=0.54
+BEST: h=0.0010 WT=0.250 Kq=5.0 | strong=0.66 medMin=-14.98 medEnd=-14.98 endNeg=0.69
+BEST: h=0.0010 WT=0.250 Kq=6.5 | strong=0.72 medMin=-14.99 medEnd=-14.99 endNeg=0.74
+BEST: h=0.0010 WT=0.250 Kq=10.0 | strong=0.80 medMin=-15.01 medEnd=-15.01 endNeg=0.80
+BEST: h=0.0010 WT=0.280 Kq=5.0 | strong=0.88 medMin=-15.11 medEnd=-15.11 endNeg=0.88
+BEST: h=0.0010 WT=0.280 Kq=6.5 | strong=0.93 medMin=-15.14 medEnd=-15.14 endNeg=0.93
+BEST: h=0.0010 WT=0.280 Kq=10.0 | strong=0.94 medMin=-15.13 medEnd=-15.13 endNeg=0.94
+BEST: h=0.0010 WT=0.300 Kq=5.0 | strong=0.94 medMin=-15.15 medEnd=-15.15 endNeg=0.94
+BEST: h=0.0010 WT=0.350 Kq=5.0 | strong=0.96 medMin=-15.19 medEnd=-15.19 endNeg=0.96
+BEST: h=0.0010 WT=0.350 Kq=6.5 | strong=0.99 medMin=-15.19 medEnd=-15.19 endNeg=0.99
+BEST: h=0.0010 WT=0.400 Kq=2.0 | strong=0.99 medMin=-15.24 medEnd=-15.24 endNeg=0.99
+BEST: h=0.0010 WT=0.400 Kq=5.0 | strong=1.00 medMin=-15.23 medEnd=-15.23 endNeg=1.00
+
+Best found: h=0.0010 WT=0.400 Kq=5.0 | strong=1.00 medMin=-15.23
