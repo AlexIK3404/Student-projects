@@ -1,0 +1,20 @@
+Grid search: 2 h * 7 WT * 10 Kw = 140 configs
+BEST: h=0.0025 WT=0.220 Kw=10.0 | strong=0.00 medMin=-0.44 medEnd=-0.39 endNeg=0.99
+BEST: h=0.0025 WT=0.250 Kw=10.0 | strong=0.01 medMin=-0.42 medEnd=-0.41 endNeg=0.96
+BEST: h=0.0025 WT=0.250 Kw=40.0 | strong=0.04 medMin=-0.24 medEnd=-0.21 endNeg=0.96
+BEST: h=0.0025 WT=0.250 Kw=60.0 | strong=0.05 medMin=-0.18 medEnd=-0.15 endNeg=0.94
+BEST: h=0.0025 WT=0.280 Kw=40.0 | strong=0.07 medMin=-0.25 medEnd=-0.18 endNeg=0.88
+BEST: h=0.0025 WT=0.280 Kw=80.0 | strong=0.12 medMin=-0.15 medEnd=-0.09 endNeg=0.80
+BEST: h=0.0025 WT=0.280 Kw=100.0 | strong=0.17 medMin=-0.13 medEnd=-0.05 endNeg=0.66
+BEST: h=0.0025 WT=0.300 Kw=80.0 | strong=0.19 medMin=-0.15 medEnd=-0.08 endNeg=0.78
+BEST: h=0.0025 WT=0.300 Kw=120.0 | strong=0.26 medMin=-0.10 medEnd=-0.04 endNeg=0.68
+BEST: h=0.0025 WT=0.350 Kw=15.0 | strong=0.28 medMin=-0.49 medEnd=-0.31 endNeg=0.66
+BEST: h=0.0025 WT=0.350 Kw=20.0 | strong=0.34 medMin=-0.51 medEnd=-0.39 endNeg=0.74
+BEST: h=0.0025 WT=0.350 Kw=30.0 | strong=0.38 medMin=-0.53 medEnd=-0.41 endNeg=0.81
+BEST: h=0.0025 WT=0.350 Kw=40.0 | strong=0.55 medMin=-15.93 medEnd=-15.93 endNeg=0.93
+BEST: h=0.0025 WT=0.400 Kw=20.0 | strong=0.65 medMin=-15.98 medEnd=-15.98 endNeg=0.79
+BEST: h=0.0025 WT=0.400 Kw=80.0 | strong=0.66 medMin=-15.92 medEnd=-15.92 endNeg=0.80
+BEST: h=0.0025 WT=1.000 Kw=10.0 | strong=1.00 medMin=-16.02 medEnd=-16.02 endNeg=1.00
+BEST: h=0.0050 WT=1.000 Kw=10.0 | strong=1.00 medMin=-16.03 medEnd=-16.03 endNeg=1.00
+
+Best found: h=0.0050 WT=1.000 Kw=10.0 | strong=1.00 medMin=-16.03

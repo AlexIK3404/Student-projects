@@ -1,0 +1,44 @@
+Grid search: 2 h * 8 WT * 10 Kx = 160 configs
+BEST: h=0.0025 WT=0.150 Kx=10.0 | strong=0.00 medMin=0.00 medEnd=0.56 endNeg=0.12 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kx=40.0 | strong=0.34 medMin=-0.03 medEnd=1.04 endNeg=0.41 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kx=60.0 | strong=0.71 medMin=-16.33 medEnd=-16.33 endNeg=0.75 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kx=60.0 | strong=0.88 medMin=-16.46 medEnd=-16.46 endNeg=0.90 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kx=80.0 | strong=0.94 medMin=-16.49 medEnd=-16.49 endNeg=0.95 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kx=100.0 | strong=0.95 medMin=-16.50 medEnd=-16.50 endNeg=0.96 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kx=140.0 | strong=0.95 medMin=-16.50 medEnd=-16.50 endNeg=0.96 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.220 Kx=80.0 | strong=0.97 medMin=-16.52 medEnd=-16.52 endNeg=0.97 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.220 Kx=100.0 | strong=0.99 medMin=-16.53 medEnd=-16.53 endNeg=0.99 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.220 Kx=120.0 | strong=1.00 medMin=-16.55 medEnd=-16.55 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.220 Kx=140.0 | strong=1.00 medMin=-16.55 medEnd=-16.55 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.250 Kx=120.0 | strong=1.00 medMin=-16.56 medEnd=-16.56 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.250 Kx=140.0 | strong=1.00 medMin=-16.56 medEnd=-16.56 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.280 Kx=140.0 | strong=1.00 medMin=-16.58 medEnd=-16.58 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kx=100.0 | strong=1.00 medMin=-16.67 medEnd=-16.67 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kx=120.0 | strong=1.00 medMin=-16.68 medEnd=-16.68 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kx=140.0 | strong=1.00 medMin=-16.70 medEnd=-16.70 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.400 Kx=100.0 | strong=1.00 medMin=-16.70 medEnd=-16.70 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.400 Kx=120.0 | strong=1.00 medMin=-16.72 medEnd=-16.72 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.400 Kx=140.0 | strong=1.00 medMin=-16.75 medEnd=-16.75 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.350 Kx=100.0 | strong=1.00 medMin=-16.76 medEnd=-16.76 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.350 Kx=120.0 | strong=1.00 medMin=-16.80 medEnd=-16.80 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.350 Kx=140.0 | strong=1.00 medMin=-16.83 medEnd=-16.83 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.400 Kx=120.0 | strong=1.00 medMin=-16.85 medEnd=-16.85 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.400 Kx=140.0 | strong=1.00 medMin=-16.88 medEnd=-16.88 endNeg=1.00 | rho=0.500 e=1.000
+
+Best found: h=0.0050 WT=0.400 Kx=140.0 | strong=1.00 medMin=-16.88 | rho=0.500 e=1.000
+Top configs sorted by medMin: [h WT Kx fracStrong medMin medEnd fracEndNeg]
+    0.0050    0.4000  140.0000    1.0000  -16.8832  -16.8832    1.0000
+    0.0050    0.4000  120.0000    1.0000  -16.8518  -16.8518    1.0000
+    0.0050    0.3500  140.0000    1.0000  -16.8337  -16.8337    1.0000
+    0.0050    0.3500  120.0000    1.0000  -16.7990  -16.7990    1.0000
+    0.0050    0.4000  100.0000    1.0000  -16.7987  -16.7987    1.0000
+    0.0050    0.3000  140.0000    0.9750  -16.7770  -16.7770    0.9875
+    0.0050    0.3500  100.0000    1.0000  -16.7608  -16.7608    1.0000
+    0.0025    0.4000  140.0000    1.0000  -16.7542  -16.7542    1.0000
+    0.0050    0.4000   80.0000    1.0000  -16.7522  -16.7522    1.0000
+    0.0050    0.2800  140.0000    0.9875  -16.7499  -16.7499    0.9875
+    0.0050    0.3000  120.0000    0.9750  -16.7409  -16.7409    0.9875
+    0.0025    0.4000  120.0000    1.0000  -16.7182  -16.7182    1.0000
+    0.0050    0.2800  120.0000    0.9500  -16.7144  -16.7144    0.9500
+    0.0025    0.4000  100.0000    1.0000  -16.6995  -16.6995    1.0000
+    0.0050    0.4000   60.0000    0.9500  -16.6983  -16.6983    0.9750

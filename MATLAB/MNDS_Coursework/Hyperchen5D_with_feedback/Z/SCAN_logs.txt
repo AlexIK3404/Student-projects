@@ -1,0 +1,49 @@
+Grid search: 2 h * 12 WT * 14 Kz = 336 configs
+BEST: h=0.0025 WT=0.150 Kz=2.5 | strong=0.03 medMin=-0.32 medEnd=-0.24 endNeg=0.82 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kz=5.0 | strong=0.03 medMin=-0.40 medEnd=-0.23 endNeg=0.81 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kz=10.0 | strong=0.03 medMin=-0.43 medEnd=-0.23 endNeg=0.79 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kz=15.0 | strong=0.04 medMin=-0.43 medEnd=-0.19 endNeg=0.78 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kz=20.0 | strong=0.05 medMin=-0.41 medEnd=-0.17 endNeg=0.75 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kz=60.0 | strong=0.09 medMin=-0.30 medEnd=-0.10 endNeg=0.64 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.150 Kz=140.0 | strong=0.07 medMin=-0.43 medEnd=-0.13 endNeg=0.68 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kz=5.0 | strong=0.10 medMin=-0.33 medEnd=-0.14 endNeg=0.69 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kz=10.0 | strong=0.11 medMin=-0.35 medEnd=-0.14 endNeg=0.70 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kz=20.0 | strong=0.12 medMin=-0.36 medEnd=-0.12 endNeg=0.66 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kz=40.0 | strong=0.12 medMin=-0.37 medEnd=-0.14 endNeg=0.66 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.180 Kz=60.0 | strong=0.12 medMin=-0.43 medEnd=-0.13 endNeg=0.70 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.220 Kz=2.5 | strong=0.16 medMin=-0.33 medEnd=-0.09 endNeg=0.62 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.220 Kz=5.0 | strong=0.17 medMin=-0.35 medEnd=-0.10 endNeg=0.70 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.250 Kz=5.0 | strong=0.20 medMin=-0.31 medEnd=-0.11 endNeg=0.68 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kz=2.5 | strong=0.20 medMin=-0.46 medEnd=-0.13 endNeg=0.70 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kz=5.0 | strong=0.20 medMin=-0.48 medEnd=-0.14 endNeg=0.71 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kz=10.0 | strong=0.21 medMin=-0.51 medEnd=-0.18 endNeg=0.74 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.350 Kz=15.0 | strong=0.23 medMin=-0.53 medEnd=-0.18 endNeg=0.75 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.500 Kz=2.5 | strong=0.31 medMin=-0.64 medEnd=-0.27 endNeg=0.78 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.500 Kz=5.0 | strong=0.39 medMin=-0.62 medEnd=-0.31 endNeg=0.79 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.600 Kz=2.5 | strong=0.68 medMin=-16.52 medEnd=-16.52 endNeg=0.85 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.600 Kz=5.0 | strong=0.78 medMin=-16.53 medEnd=-16.53 endNeg=0.94 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.800 Kz=2.5 | strong=1.00 medMin=-16.53 medEnd=-16.53 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=0.800 Kz=5.0 | strong=1.00 medMin=-16.53 medEnd=-16.53 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=1.000 Kz=5.0 | strong=1.00 medMin=-16.53 medEnd=-16.53 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0025 WT=1.000 Kz=10.0 | strong=1.00 medMin=-16.55 medEnd=-16.55 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.800 Kz=2.5 | strong=1.00 medMin=-16.55 medEnd=-16.55 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=0.800 Kz=5.0 | strong=1.00 medMin=-16.56 medEnd=-16.56 endNeg=1.00 | rho=0.500 e=1.000
+BEST: h=0.0050 WT=1.000 Kz=5.0 | strong=1.00 medMin=-16.56 medEnd=-16.56 endNeg=1.00 | rho=0.500 e=1.000
+
+Best found: h=0.0050 WT=1.000 Kz=5.0 | strong=1.00 medMin=-16.56 | rho=0.500 e=1.000
+Top configs sorted by medMin: [h WT Kz fracStrong medMin medEnd fracEndNeg]
+    0.0050    1.0000   30.0000    0.5125  -16.5958  -16.5958    0.9250
+    0.0050    1.0000   20.0000    0.5250  -16.5953  -16.5953    0.9750
+    0.0050    1.0000   15.0000    0.5750  -16.5869  -16.5869    1.0000
+    0.0050    0.8000   15.0000    0.5625  -16.5784  -16.5784    0.9375
+    0.0050    1.0000   10.0000    0.9875  -16.5747  -16.5747    1.0000
+    0.0050    0.8000   10.0000    0.7875  -16.5693  -16.5693    0.9750
+    0.0050    0.8000   20.0000    0.5125  -16.5619  -16.5619    0.8875
+    0.0050    1.0000    5.0000    1.0000  -16.5587  -16.5587    1.0000
+    0.0050    0.8000    5.0000    1.0000  -16.5572  -16.5572    1.0000
+    0.0050    1.0000    2.5000    1.0000  -16.5515  -16.5515    1.0000
+    0.0050    0.8000    2.5000    1.0000  -16.5509  -16.5509    1.0000
+    0.0025    1.0000   15.0000    0.5500  -16.5494  -16.5494    1.0000
+    0.0025    0.8000   15.0000    0.5375  -16.5484  -16.5484    0.9250
+    0.0025    1.0000   10.0000    1.0000  -16.5480  -16.5480    1.0000
+    0.0025    0.8000   10.0000    0.7750  -16.5439  -16.5439    0.9750
