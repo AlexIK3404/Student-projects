@@ -1,0 +1,36 @@
+Grid search: 2 h * 8 WT * 11 Ky = 176 configs
+BEST: h=0.0025 WT=0.150 Ky=2.0 | strong=0.05 medMin=-0.10 medEnd=1.30 endNeg=0.15
+BEST: h=0.0025 WT=0.150 Ky=5.0 | strong=0.11 medMin=-0.08 medEnd=1.55 endNeg=0.16
+BEST: h=0.0025 WT=0.150 Ky=6.5 | strong=0.19 medMin=-0.03 medEnd=1.73 endNeg=0.21
+BEST: h=0.0025 WT=0.150 Ky=10.0 | strong=0.31 medMin=-0.05 medEnd=1.65 endNeg=0.33
+BEST: h=0.0025 WT=0.150 Ky=15.0 | strong=0.35 medMin=-0.06 medEnd=1.66 endNeg=0.35
+BEST: h=0.0025 WT=0.150 Ky=60.0 | strong=0.35 medMin=-0.29 medEnd=0.52 endNeg=0.44
+BEST: h=0.0025 WT=0.180 Ky=5.0 | strong=0.55 medMin=-15.58 medEnd=-15.58 endNeg=0.55
+BEST: h=0.0025 WT=0.180 Ky=6.5 | strong=0.79 medMin=-15.83 medEnd=-15.83 endNeg=0.79
+BEST: h=0.0025 WT=0.180 Ky=10.0 | strong=0.80 medMin=-15.83 medEnd=-15.83 endNeg=0.80
+BEST: h=0.0025 WT=0.180 Ky=20.0 | strong=0.86 medMin=-15.85 medEnd=-15.85 endNeg=0.89
+BEST: h=0.0025 WT=0.220 Ky=5.0 | strong=0.94 medMin=-15.94 medEnd=-15.94 endNeg=0.94
+BEST: h=0.0025 WT=0.220 Ky=6.5 | strong=0.95 medMin=-15.95 medEnd=-15.95 endNeg=0.95
+BEST: h=0.0025 WT=0.220 Ky=20.0 | strong=0.96 medMin=-15.90 medEnd=-15.90 endNeg=0.97
+BEST: h=0.0025 WT=0.250 Ky=5.0 | strong=0.96 medMin=-15.93 medEnd=-15.93 endNeg=0.96
+BEST: h=0.0025 WT=0.250 Ky=6.5 | strong=0.99 medMin=-15.96 medEnd=-15.96 endNeg=0.99
+BEST: h=0.0025 WT=0.280 Ky=2.0 | strong=0.99 medMin=-15.97 medEnd=-15.97 endNeg=0.99
+BEST: h=0.0025 WT=0.300 Ky=5.0 | strong=1.00 medMin=-15.96 medEnd=-15.96 endNeg=1.00
+
+Best found: h=0.0025 WT=0.300 Ky=5.0 | strong=1.00 medMin=-15.96
+Top configs sorted by medMin: [h WT Ky fracStrong medMin medEnd fracEndNeg]
+    0.0025    0.2800    2.0000    0.9875  -15.9665  -15.9665    0.9875
+    0.0025    0.3000    5.0000    1.0000  -15.9614  -15.9614    1.0000
+    0.0025    0.2500    6.5000    0.9875  -15.9554  -15.9554    0.9875
+    0.0025    0.2200    6.5000    0.9500  -15.9535  -15.9535    0.9500
+    0.0025    0.2500   10.0000    0.9750  -15.9521  -15.9521    0.9750
+    0.0025    0.4000    2.0000    1.0000  -15.9511  -15.9511    1.0000
+    0.0025    0.2800    6.5000    0.9750  -15.9470  -15.9470    0.9750
+    0.0025    0.3000    2.0000    0.9625  -15.9439  -15.9439    0.9625
+    0.0025    0.3500    2.0000    0.9875  -15.9433  -15.9433    0.9875
+    0.0025    0.3000    6.5000    1.0000  -15.9424  -15.9424    1.0000
+    0.0025    0.3500    5.0000    1.0000  -15.9420  -15.9420    1.0000
+    0.0025    0.2200    5.0000    0.9375  -15.9364  -15.9364    0.9375
+    0.0025    0.2500   40.0000    0.9875  -15.9275  -15.9275    0.9875
+    0.0025    0.2500    5.0000    0.9625  -15.9272  -15.9272    0.9625
+    0.0025    0.2500    2.0000    0.9000  -15.9271  -15.9271    0.9000
