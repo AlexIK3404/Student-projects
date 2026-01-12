@@ -53,9 +53,9 @@ Best found: h=0.0025 WT=0.250 Ky=30.0 | strong=1.00 medMin=-14.80
 
 ### График ошибки по окну (error vs time window)
 
-Пример ошибки синхронизации по времени для Hyper‑Chen 4D (переменная **Y**):
+Пример ошибки синхронизации по времени для Hyper‑Chen 5D с обратной связью (переменная **X**):
 
-![Hyper‑Chen 4D Y error](Hyperchen4D/Y/hyperchen_y_error.png)
+![Hyper‑Chen 4D Y error](Hyperchen5D_with_feedback/X/hyperchen5d_x_error.png)
 
 ### Фазовый портрет для Hyper‑Chen
 
