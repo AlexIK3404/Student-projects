@@ -1,6 +1,8 @@
 # MNDS Coursework (MATLAB)
 
-Курсовая работа по синхронизации хаотических систем с использованием time‑reversible подхода. Реализация и постановка следуют статье «Fast time‑reversible synchronization of chaotic systems» (скрины статьи приложены в репозитории), поэтому структура расчётов, метрики и выбор тестовых систем согласованы с методикой из статьи.
+Курсовая работа по синхронизации хаотических систем с использованием time‑reversible подхода. Реализация и постановка следуют статье «Fast time‑reversible synchronization of chaotic systems» (DOI: https://doi.org/10.1103/PhysRevE.111.014213), поэтому структура расчётов, метрики и выбор тестовых систем согласованы с методикой из статьи.
+
+https://github.com/WyacheslawRybin/FastSynchro
 
 ## Что сделано
 
@@ -63,3 +65,12 @@ Best found: h=0.0025 WT=0.250 Ky=30.0 | strong=1.00 medMin=-14.80
 
 ![Hyper‑Chen 4D Y phase portrait](Hyperchen4D/Y/hyperchen_y_phase.png)
 
+## Расчёт показателей Ляпунова (Hyper‑Chen 5D с обратной связью)
+
+Для 5D Hyper‑Chen с обратной связью выполнен расчёт спектра показателей Ляпунова, чтобы подтвердить гиперхаотичность режима (2 или более положительных показателя). Материалы находятся в папке `Hyperchen5D_with_feedback/`:
+
+- скрипт: `hyper_chen_5d_lyapunov_spectrum.m`;
+- график спектра: `lyapunov_spectrum.png`;
+![Hyper‑Chen 4D Y phase portrait](Hyperchen5D_with_feedback/lyapunov_spectrum.png)
+- график сходимости показателей: `convergence_of_lyapunov_exponents.png`.
+![Hyper‑Chen 4D Y phase portrait](Hyperchen5D_with_feedback/convergence_of_lyapunov_exponents.png)
